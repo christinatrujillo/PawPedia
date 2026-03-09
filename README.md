@@ -1,4 +1,4 @@
-# 🐾 Animal App
+# 🐾 PawPedia
 
 An educational iOS app built with SwiftUI and Firebase, designed for young children to explore animals, listen to animal sounds, and discover related information.
 
