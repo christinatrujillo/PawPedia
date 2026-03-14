@@ -4,13 +4,13 @@ An educational iOS app built with SwiftUI and Firebase, designed for young child
 
 ---
 
-## 📱 App Overview
+## App Overview
 
 Animal App makes learning about animals fun and accessible for kids. Each animal has its own dedicated page with information, sounds, and links to further reading — all wrapped in a clean, child-friendly interface.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Animal Exploration** — Browse a collection of animals with dedicated detail pages
 - **Animal Sounds** — Tap to hear each animal's sound
@@ -21,7 +21,7 @@ Animal App makes learning about animals fun and accessible for kids. Each animal
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Swift
 - **Framework:** SwiftUI
@@ -31,7 +31,7 @@ Animal App makes learning about animals fun and accessible for kids. Each animal
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 AnimalApp/
 ├── AnimalApp.xcodeproj/    # Xcode project files
@@ -47,7 +47,7 @@ AnimalApp/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Xcode 13+
@@ -63,8 +63,4 @@ git clone https://github.com/christinatrujillo/AnimalApp.git
 3. Add your `GoogleService-Info.plist` from your Firebase project to the root of the app
 4. Build and run on a simulator or device
 
----
 
-## 👩‍💻 Author
-
-**Christina Trujillo** — [GitHub](https://github.com/christinatrujillo)
